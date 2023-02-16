@@ -19,21 +19,30 @@ The structure will follow:
 
 Revenue 1
 Revenue 2
+
+
   **Total Revenue**
+  
 Direct cost 
+
    **Gross margin**
+   
 Fixed expenses (operating expenses) ثابتة زي الإجار 
 
   **EBITDA**   (margin - fixed expenses)
+  
+  
 "earning before interests taxes, depreciation and amortization"
 
 D&A 
 "depreciation & amortization"
  
   **EBIT**  (EBITDA - D&A)
+  
 Interests
 
   **EBT** (EBIT - or + interests)
+  
 Taxes
 
 **Net income**:  (EBT - taxes )
