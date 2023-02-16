@@ -1,2 +1,2 @@
-# income-statement
-Case study building an income statement with exce
+££ Case study
+building an income statement with exce
